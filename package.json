@@ -1,0 +1,28 @@
+{
+  "name": "level-to-json",
+  "version": "0.0.0",
+  "description": "Get a leveldb-database out as json (or parts of it)",
+  "main": "to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/level-to-json.git"
+  },
+  "keywords": [
+    "level"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesla/level-to-json/issues"
+  },
+  "homepage": "https://github.com/kesla/level-to-json",
+  "dependencies": {
+    "level-get-range": "^1.1.0"
+  },
+  "devDependencies": {
+    "level-test": "^1.6.3"
+  }
+}
