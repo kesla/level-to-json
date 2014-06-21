@@ -1,6 +1,6 @@
 {
   "name": "level-to-json",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get a leveldb-database out as json (or parts of it)",
   "main": "to-json.js",
   "scripts": {
